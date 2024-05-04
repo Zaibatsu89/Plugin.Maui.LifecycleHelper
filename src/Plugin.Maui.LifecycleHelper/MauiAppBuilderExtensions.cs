@@ -10,7 +10,7 @@ public static class MauiAppBuilderExtensions
     public static MauiAppBuilder AddLifecycleHelper(
         this MauiAppBuilder mauiAppBuilder)
     {
-        mauiAppBuilder.Services.AddSingleton(LifecycleHelper.Current);
+        mauiAppBuilder.Services.AddSingleton(LifecycleManager.Current);
 
         return mauiAppBuilder;
     }
