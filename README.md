@@ -63,7 +63,7 @@ public partial class App : Application
 
 Now that you know how tu use the `LifecycleManager` class, please refer to the following section:
 
-* [Lifecycle management](docs/lifecyle-manager.md)
+* [Lifecycle management](docs/lifecycle-manager.md)
 
 ## Acknowledgements
 
