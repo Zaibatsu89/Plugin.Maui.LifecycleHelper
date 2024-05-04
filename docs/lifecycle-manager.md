@@ -1,6 +1,6 @@
 # Lifecycle management
 
-The `LifecycleManager` class provides you with the ability to implement lifecycle triggers for Pages of Shell, NavigationPage or TabbedPage in your .NET MAUI application. In order to modify an existing `Window` instance you can make use of the `ModifyWindow` method on the [`LifecycleManager`](../main/README.md#lifecyclemanager) class.
+The `LifecycleManager` class provides you with the ability to implement lifecycle triggers for Pages of Shell, NavigationPage or TabbedPage in your .NET MAUI application. In order to modify an existing `Window` instance you can make use of the `ModifyWindow` method on the [`LifecycleManager`](../README.md#lifecyclemanager) class.
 
 ```csharp
 public partial class App : Application
